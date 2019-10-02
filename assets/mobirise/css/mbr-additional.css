@@ -1220,13 +1220,16 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rDKa8Yyg5V {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rDKa8Yyg5V .mbr-text,
 .cid-rDKa8Yyg5V blockquote {
   color: #767676;
+}
+.cid-rDKa8Yyg5V .mbr-text {
+  color: #232323;
 }
 .cid-rDJZc3YOYx {
   padding-top: 15px;
@@ -1362,17 +1365,5 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rDK2c0MHmf .mbr-text {
-  color: #232323;
-}
-.cid-rDJOBsDk5Y {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rDJOBsDk5Y .mbr-text,
-.cid-rDJOBsDk5Y blockquote {
-  color: #767676;
-}
-.cid-rDJOBsDk5Y .mbr-text {
   color: #232323;
 }
