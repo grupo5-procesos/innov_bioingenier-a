@@ -5223,6 +5223,15 @@ section.lazy-placeholder:after {
 .cid-rDZkd2g3kf .progress_value span {
   padding-left: 30px;
 }
+.cid-rEwVWVXlMI {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rEwVWVXlMI .mbr-text,
+.cid-rEwVWVXlMI blockquote {
+  color: #767676;
+}
 .cid-rDKoFEjvGZ .navbar {
   padding: .5rem 0;
   background: #efefef;
